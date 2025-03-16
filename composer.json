@@ -1,0 +1,14 @@
+{
+  "name": "muballigh/moon-sighting",
+  "type": "library",
+  "description": "MoonSighting.com based library in  PHP",
+  "license": "GPL-3.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "Muballigh\\MoonSighting\\": "src/MoonSighting/"
+    }
+  },
+  "require-dev": {
+      "phpunit/phpunit": "^9.2"
+  }
+}
